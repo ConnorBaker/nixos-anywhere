@@ -1,0 +1,5 @@
+[book]
+authors = [ ]
+language = "en"
+src = "."
+title = "nixos-anywhere - install NixOS everywhere"
